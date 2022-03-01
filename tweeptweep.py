@@ -1,5 +1,5 @@
 # You will need to PIP INSTALL tweepy for this to work and also create a twitter API. Run this on your own machine, not in this Repl.
-# Tweepy APi v2.0 - https://docs.tweepy.org/en/stable/client.html#
+# Tweitter API v2.0 / Tweepy v4.0 - https://docs.tweepy.org/en/stable/client.html#
 
 from pickle import TRUE
 import tweepy
